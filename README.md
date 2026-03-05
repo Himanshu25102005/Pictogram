@@ -1,6 +1,6 @@
-# 📸 Instagram Clone (Node.js + Express + MongoDB + EJS)
+# 📸 Pictogram (Node.js + Express + MongoDB + EJS)
 
-An end-to-end **Full Stack Instagram Web App** built with **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Tailwind CSS**.
+An end-to-end **Full Stack Instagram like Web App** built with **Node.js**, **Express.js**, **MongoDB**, **Mongoose**, **EJS**, and **Tailwind CSS**.
 
 This project was built for learning **backend development**, **file uploads**, **user authentication**, and **server-side rendering**.
 
